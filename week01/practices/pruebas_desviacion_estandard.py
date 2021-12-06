@@ -1,7 +1,5 @@
-try:
-     import numpy as np
-except Exception as e:
-     print(e)
+# import numpy as np
+
 import statistics
 lista = [2, 3, 5, 6]
 # media = np.mean(lista)
